@@ -11,5 +11,5 @@ It has two pigscripts that you can use and customize:
 * `top_density_songs`: Find the songs with the most beats per second in the 1MM song dataset.  Code to ***REALLY FAST*** music.
 * `hottest_song_of_the_decade`: Figure out which song was the hottest in every decade
 
-If you add more interesting pigscripts, please send us a pull request!
+If  you add more interesting pigscripts, please send us a pull request!
 
